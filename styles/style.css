@@ -1,0 +1,14 @@
+aside {
+    display: block;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 100%;
+    background-color: #242424;
+    position: absolute;
+}
+
+*{
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

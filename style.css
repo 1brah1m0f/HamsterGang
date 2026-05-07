@@ -5,4 +5,5 @@ aside {
     width: 150px;
     height: 100%;
     background-color: #242424;
+    position: absolute;
 }
